@@ -378,4 +378,3 @@ DELIMITER ;
 
 call  GeekLoop;
 
-Select * from XXBCM_SUPPLIERS;
